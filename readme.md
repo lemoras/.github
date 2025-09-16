@@ -1,4 +1,4 @@
-# 🌐 Alemoras Organization
+# 🌐 lemoras Organization 
 
 🇹🇷 Alemoras organizasyonu, açık kaynak yazılım geliştirmeyi teşvik eden ve farklı projeleri bir araya getiren bir topluluktur.  
 🇬🇧 The Alemoras organization is a community that promotes open-source software development and brings together multiple projects.
