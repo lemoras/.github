@@ -15,13 +15,13 @@
 - **LEMORAS-MODULES** 
   [GitHub Repository](https://github.com/lemoras/LEMORAS-MODULES)
 
-  - **LEMORAS-GATEWAY** 
+- **LEMORAS-GATEWAY** 
   [GitHub Repository](https://github.com/lemoras/LEMORAS-GATEWAY)
 
-  - **LEMORAS-CORE** 
+- **LEMORAS-CORE** 
   [GitHub Repository](https://github.com/lemoras/LEMORAS-CORE)
 
-    - **LEMORAS-WORKSAPCE** 
+- **LEMORAS-WORKSAPCE** 
   [GitHub Repository](https://github.com/lemoras/workspace)
 
 ---
